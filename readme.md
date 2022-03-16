@@ -8,5 +8,11 @@
 </div>
 
 ```
-<h1>LMAO/h1>
+{ 
+	"Name": "Tirthan Prajapti",
+	"Country": "India",
+	"Languages": ["English", "Hindi", "French"],
+  "Programming-Languages": ["Python", "Java", "Javascript", "c++", "c", "css", "html"],
+	"Learning": true;
+}
 ```

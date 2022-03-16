@@ -1,5 +1,6 @@
 <div align="center">
-  <h1 ><red>Hey,I am Tirthan Prajapati</red></h1>
+  <h1 >Hey,I am Tirthan Prajapati</h1>
+	<br>
   <img src"https://komarev.com/ghpvc/?username=zero2ditf&label=Profile+Viwes")
   <hr>
   <img src="https://github-profile-trophy.vercel.app/?username=zero2ditf&theme=onedark">

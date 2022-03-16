@@ -13,7 +13,7 @@
 	"Country": "India",
 	"Languages": ["English", "Hindi", "French"],
         "Programming-Languages": ["Python", "Java", "Javascript", "C++", "C", "CSS", "Html"],
-	"Hobbies": ["Photography", "Telethon Programmiong"],
+	"Hobbies": ["Photography", "Telethon Programming"],
 	"Learning": true,
 }
 ```

@@ -6,7 +6,7 @@
   <hr>
   About Me
   <br>
+</div>
   ```
   LMAO
   ```
-</div>

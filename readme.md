@@ -1,7 +1,7 @@
 <div align="center">
   <h1 >Hey,I am Tirthan Prajapati</h1>
 	<div>
-        <img src="https://komarev.com/ghpvc/?username=zero2ditf&label=Profile-+Views">
+        <img src="https://komarev.com/ghpvc/?username=zero2ditf&label=Profile+Views">
        </div>
   <img src="https://github-profile-trophy.vercel.app/?username=zero2ditf&theme=onedark">
   <hr>

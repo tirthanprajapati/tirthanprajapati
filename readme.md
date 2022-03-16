@@ -13,7 +13,8 @@
 	"Name": "Tirthan Prajapti",
 	"Country": "India",
 	"Languages": ["English", "Hindi", "French"],
-        "Programming-Languages": ["Python", "Java", "Javascript", "c++", "c", "css", "html"],
+        "Programming-Languages": ["Python", "Java", "Javascript", "C++", "C", "CSS", "Html"],
+	"Hobbies": ["Photography", "Telethon Programmiong"],
 	"Learning": true,
 }
 ```

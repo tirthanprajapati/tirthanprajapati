@@ -7,7 +7,7 @@
   <h1>About Me</h1>
 </div>
 
-```
+```json
 { 
 	"Name": "Tirthan Prajapti",
 	"Country": "India",

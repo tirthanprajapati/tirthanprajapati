@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="color:red,">
   <h1 >Hey there,I am Tirthan Prajapati
 	  <div align="right"><img src="https://komarev.com/ghpvc/?username=zero2ditf&label=Profile+Views"></div></h1>
 	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam aliquam aspernatur sapiente, autem animi corporis quasi suscipit nostrum numquam, deleniti ratione odit repellat explicabo, reprehenderit voluptatibus nesciunt unde culpa similique!</p>

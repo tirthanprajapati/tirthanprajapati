@@ -16,6 +16,7 @@
 		About Me.json
 	</h1>
 </div>
+
 ```json
 { 
 	"Name": "Tirthan Prajapti",
@@ -26,6 +27,7 @@
 	"Learning": true,
 }
 ```
+
 <h1> Contact me </h1>
 <div align="center">	
 </div>

@@ -18,3 +18,7 @@
 	"Learning": true,
 }
 ```
+<div align="center">
+	<h1> Contact me </h1>
+	<img src="https://discordapp.com/api/guilds/735134160812900504/widget.png?style=banner2" alt="Discord Banner 2"/>
+</div>

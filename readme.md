@@ -3,18 +3,6 @@
 	  <div align="right"><img src="https://komarev.com/ghpvc/?username=zero2ditf&label=Profile+Views"></div></h1>
 </div>
 
-```text
-Hello I am Tirthan Prajapati!
-🔭 I’m currently working on Learning Programming languages.
-🌱 I’m currently learning Java and Python.
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
-💬 Ask me about Tech related stuff.
-📫 How to reach me:
-😄 Pronouns: He/His
-⚡ Fun fact:
-
-```
 <div>
 	<h1>Stats</h1>
          <hr width="50%">

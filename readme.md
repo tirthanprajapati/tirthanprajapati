@@ -20,5 +20,5 @@
 ```
 <div align="center">
 	<h1> Contact me </h1>
-	<a href="https://discord.gg/8VTfm37jwj"><img src="https://discordapp.com/api/guilds/735134160812900504/widget.png?style=banner2" alt="Discord Banner 2"/></a>
+	
 </div>

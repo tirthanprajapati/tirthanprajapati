@@ -2,7 +2,7 @@
  	<h1 >
 		Hey there,I am Tirthan Prajapati
 	  	<div align="right">
-			<img src="https://komarev.com/ghpvc/?username=zero2ditf&label=Profile+Views">
+			<img src="https://komarev.com/ghpvc/?username=zero2ditf&label=Profile+Views" alt="Error 404">
 		</div>
 	</h1>
 </div>

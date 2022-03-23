@@ -6,7 +6,7 @@
 		</div>
 	</h1>
 </div>
-<div align="cenetr">
+<div align="center">
  	<h1>
 		Stats
 	</h1>

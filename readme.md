@@ -35,7 +35,7 @@
 	</h1>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=zero2ditf&theme=default" alt="Stats">
  	<hr width="50%">
-  	<img src="https://github-readme-stats.vercel.app/api?username=zero2ditf&&show_icons=true&title_color=#FF4500&icon_color=8B008B&text_color=black&bg_color=white" alt="stats">
+  	<img src="https://github-readme-stats.vercel.app/api?username=zero2ditf&&show_icons=true&title_color=FF4500&icon_color=8B008B&text_color=black&bg_color=white" alt="stats">
 	<hr width="50%">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero2ditf&langs_count=5&theme=default" alt="stats">
   	<h1>

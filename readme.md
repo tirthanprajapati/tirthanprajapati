@@ -21,9 +21,7 @@
 <br>
 	💬 Ask me about...
 <br>
-	📫 How to reach me tirthanbhuvan@gmail.com
-<br>
-	⚡ Fun fact I'm a always in mood to learn
+	⚡ Fun fact I'm a always in mood to learn new things
 </div>
 <div align="center">
 <h1>Languages and Tools</h1>

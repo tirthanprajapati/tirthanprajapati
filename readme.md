@@ -52,6 +52,7 @@
 }
 ```
 
-<h1> Contact me </h1>
+
 <div align="center">	
+	<h1> Contact me </h1>
 </div>

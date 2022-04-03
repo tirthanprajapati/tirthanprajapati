@@ -17,7 +17,7 @@
 <br>
 	🤝 I’m looking for help with...
 	<br>
-	👨‍💻 All of my projects are available at https://github.com/zero2ditf
+	👨‍💻 All of my projects are available at <[click me]('https://github.com/zero2ditf')>
 <br>
 	💬 Ask me about...
 <br>

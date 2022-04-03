@@ -2,7 +2,7 @@
  	<h1 >
 		Hey there,Visitor
 	  	<div align="right">
-			<img src="https://komarev.com/ghpvc/?username=zero2ditf&label=Profile+Views" alt="Error 404">
+			<a href='github.com/zero2ditf'><img src="https://komarev.com/ghpvc/?username=zero2ditf&label=Profile+Views" alt="Error 404"></a>
 		</div>
 	</h1>
 	<img src="https://cdn.discordapp.com/attachments/890487043694665764/957941913854545990/Beige_Brown_Abstract_Organic_Class_Syllabus_Blank_Presentation.png" alt="profile_img">

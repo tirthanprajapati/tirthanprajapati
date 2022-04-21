@@ -47,7 +47,7 @@
 	"Name": "Tirthan Prajapti",
 	"Country": "India",
 	"Languages": ["English", "Hindi", "French"],
-        "Programming-Languages": ["Python", "Java", "Javascript", "C++", "C", "CSS", "Html"],
+        "Programming-Languages": ["Python", "Java", "Javascript", "C++", "C", "CSS"],
 	"Hobbies": ["Photography", "Telethon Programming"],
 	"Learning": true,
 }

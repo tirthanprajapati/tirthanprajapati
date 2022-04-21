@@ -2,10 +2,10 @@
  	<h1 >
 		Hey there,Visitor
 	  	<div align="right">
-			<a href="https://github.com/zero2ditf"><img src="https://komarev.com/ghpvc/?username=zero2ditf&label=Profile+Views" alt="Error 404"></a>
+			<a href="https://github.com/tirthanprajapati"><img src="https://komarev.com/ghpvc/?username=tirthanprajapati&label=Profile+Views" alt="Error 404"></a>
 		</div>
 	</h1>
-	<a href="https://github.com/zero2ditf"><img src="https://cdn.discordapp.com/attachments/890487043694665764/957941913854545990/Beige_Brown_Abstract_Organic_Class_Syllabus_Blank_Presentation.png" alt="profile_img"></a>
+	<a href="https://github.com/tirthanprajapati"><img src="https://cdn.discordapp.com/attachments/890487043694665764/957941913854545990/Beige_Brown_Abstract_Organic_Class_Syllabus_Blank_Presentation.png" alt="profile_img"></a>
 	</div>
 	<div align="left">
 	<br>
@@ -18,7 +18,7 @@
 	🤝 I’m looking for help with...
 	<br>
 	👨‍💻 All of my projects are available at 
-	<a href='https://github.com/zero2ditf'> Click me </a>
+	<a href='https://github.com/tirthanprajapati'> Click me </a>
 <br>
 	💬 Ask me about...
 <br>
@@ -32,11 +32,11 @@
  	<h1>
 		Stats
 	</h1>
-	<a href="https://github.com/zero2ditf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zero2ditf&theme=default" alt="Stats"></a>
+	<a href="https://github.com/tirthanprajapati"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tirthanprajapati&theme=default" alt="Stats"></a>
  	<hr width="50%">
-  	<a href="https://github.com/zero2ditf"><img src="https://github-readme-stats.vercel.app/api?username=zero2ditf&&show_icons=true&title_color=FF4500&icon_color=8B008B&text_color=black&bg_color=white" alt="stats"></a>
+  	<a href="https://github.com/tirthanprajapati"><img src="https://github-readme-stats.vercel.app/api?username=tirthanprajapati&&show_icons=true&title_color=FF4500&icon_color=8B008B&text_color=black&bg_color=white" alt="stats"></a>
 		<hr width="50%">
-	<a href="https://github.com/zero2ditf"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero2ditf&langs_count=5&theme=default" alt="stats"></a>
+	<a href="https://github.com/tirthanprajapati"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthanprajapati&langs_count=5&theme=default" alt="stats"></a>
   	<h1>
 		About Me.json
 	</h1>

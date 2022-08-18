@@ -2,7 +2,7 @@
  	<h1 >
 		Hey there,Visitor
 	  	<div align="right">
-			<a href="https://github.com/tirthanprajapati"><img src="https://komarev.com/ghpvc/?username=tirthanprajapati&label=Profile+Views" alt="Error 404"></a>
+			<a href="https://github.com/tirthanprajapati"><img src="[https://komarev.com/ghpvc/?username=tirthanprajapati&label=Profile+Views](https://webcodes.net/wp-content/uploads/2020/11/python-2.gif)" alt="Error 404"></a>
 		</div>
 	</h1>
 	<a href="https://github.com/tirthanprajapati"><img src="https://cdn.discordapp.com/attachments/890487043694665764/957941913854545990/Beige_Brown_Abstract_Organic_Class_Syllabus_Blank_Presentation.png" alt="profile_img"></a>

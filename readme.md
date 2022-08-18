@@ -2,7 +2,7 @@
  	<h1 >
 		Hey there,Visitor
 	  	<div align="right">
-			<a href="https://github.com/tirthanprajapati"><img height="50%" src="https://komarev.com/ghpvc/?username=tirthanprajapati&label=Profile+Views" alt="Error 404"></a>
+			<a href="https://github.com/tirthanprajapati"><img height="100%" width="50%" src="https://komarev.com/ghpvc/?username=tirthanprajapati&label=Profile+Views" alt="Error 404"></a>
 		</div>
 	</h1>
 	<a href="https://github.com/tirthanprajapati"><img src="https://webcodes.net/wp-content/uploads/2020/11/python-2.gif" alt="profile_img"></a>

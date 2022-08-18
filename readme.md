@@ -34,10 +34,9 @@
 	</h1>
 	<div align="center">
 	<a href="https://github.com/tirthanprajapati"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tirthanprajapati&theme=default" alt="Stats"></a></div>
- 	<hr align="center" width="50%">
 	<div align="center">
+ 	<hr align="center" width="50%">
   	<a href="https://github.com/tirthanprajapati"><img top="20px" src="https://github-readme-stats.vercel.app/api?username=tirthanprajapati&&show_icons=true&title_color=FF4500&icon_color=8B008B&text_color=black&bg_color=white" alt="stats"></a>
-	<a href="https://github.com/tirthanprajapati"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthanprajapati&langs_count=5&theme=default" alt="stats"></a>
 	</div>
   	<h1>
 		About Me.json

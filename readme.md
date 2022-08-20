@@ -11,7 +11,7 @@
 	<br>
 	🔭 I’m currently working on minor projects
 	<br>
-	🌱 I’m currently learning Pyhton, competitive c++
+	🌱 I’m currently learning Python, competitive c++
 	<br>
 	👯 I’m looking to collaborate on...
 <br>

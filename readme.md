@@ -16,7 +16,7 @@
 	🤝 I’m looking for help with...
 	<br>
 	👨‍💻 All of my projects are available at 
-	<a href='https://github.com/tirthanprajapati'> Click me </a>
+	<a href='https://github.com/tirthanprajapati?tab=repositories'> Click me </a>
 <br>
 	💬 Ask me about...
 <br>

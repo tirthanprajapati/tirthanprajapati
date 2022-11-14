@@ -9,7 +9,7 @@
 	</div>
 	<div align="left">
 	<br>
-	🔭 I’m currently working on ML projects
+	🔭 I’m currently working on Solidity projects
 	<br>
 	👯 I’m looking to collaborate on...
 <br>

@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey there, Visitor! 👋</h1>
-  <iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="480" height="480" alt="Welcome GIF">
   <div align="right">
     <a href="https://github.com/tirthanprajapati">
       <img src="https://komarev.com/ghpvc/?username=tirthanprajapati&label=Profile+Views" alt="Profile Views">

@@ -1,11 +1,12 @@
 <div align="center">
   <h1>Hey there, Visitor! 👋</h1>
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="480" height="480" alt="Welcome GIF">
+  
   <div align="right">
     <a href="https://github.com/tirthanprajapati">
       <img src="https://komarev.com/ghpvc/?username=tirthanprajapati&label=Profile+Views" alt="Profile Views">
     </a>
   </div>
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="480" height="480" alt="Welcome GIF">
   <a href="https://github.com/tirthanprajapati">
     <img height="100%" width="50%" src="https://webcodes.net/wp-content/uploads/2020/11/python-2.gif" alt="Profile Image">
   </a>

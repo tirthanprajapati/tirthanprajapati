@@ -6,7 +6,7 @@
       <img src="https://komarev.com/ghpvc/?username=tirthanprajapati&label=Profile+Views"  alt="Profile Views">
     </a>
   </div>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5od294NWFud2FhOXRraWR6NmliaXNneWFiMXNnODk3M28zdDQwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UHAYP0FxJOmFBuOiC2/giphy.gif" height="550" alt="Welcome GIF">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5od294NWFud2FhOXRraWR6NmliaXNneWFiMXNnODk3M28zdDQwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UHAYP0FxJOmFBuOiC2/giphy.gif" height="400" alt="Welcome GIF">
   <a href="https://github.com/tirthanprajapati">
     <img height="100%" width="50%" src="https://webcodes.net/wp-content/uploads/2020/11/python-2.gif" alt="Profile Image">
   </a>

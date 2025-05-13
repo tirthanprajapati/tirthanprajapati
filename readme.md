@@ -3,10 +3,10 @@
   
   <div align="right">
     <a href="https://github.com/tirthanprajapati">
-      <img src="https://komarev.com/ghpvc/?username=tirthanprajapati&label=Profile+Views" height="600" alt="Profile Views">
+      <img src="https://komarev.com/ghpvc/?username=tirthanprajapati&label=Profile+Views"  alt="Profile Views">
     </a>
   </div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NldGxydHN1ZGY5NTl1OTNhenZ3NDZ6Ynp3Mmg0OXhndmgzZGhpNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LtwGskeJs0psQ/giphy.gif" alt="Welcome GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NldGxydHN1ZGY5NTl1OTNhenZ3NDZ6Ynp3Mmg0OXhndmgzZGhpNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LtwGskeJs0psQ/giphy.gif" height="600" alt="Welcome GIF">
   <a href="https://github.com/tirthanprajapati">
     <img height="100%" width="50%" src="https://webcodes.net/wp-content/uploads/2020/11/python-2.gif" alt="Profile Image">
   </a>
